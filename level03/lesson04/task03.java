@@ -29,11 +29,11 @@ public class Solution
         zerg8.name = "8";
         zerg9.name = "9";
         zerg10.name = "10";
-        Protos zerg1 = New Protos();
-        Protos zerg2 = New Protos();
-        Protos zerg3 = New Protos();
-        Protos zerg4 = New Protos();
-        Protos zerg5 = New Protos();
+        Protos zerg1 = new Protos();
+        Protos zerg2 = new Protos();
+        Protos zerg3 = new Protos();
+        Protos zerg4 = new Protos();
+        Protos zerg5 = new Protos();
         zerg1.name = "z1";
         zerg2.name = "z2";
         zerg3.name = "z3";
