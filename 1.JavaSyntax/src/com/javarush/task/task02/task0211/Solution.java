@@ -1,10 +1,9 @@
-package com.javarush.task.task02.lesson05;
+package com.javarush.task.task02.task0211;
 
-/* 19
-Закоментарь максимальное количество строк, чтобы на экран вывелось число 19
+/* 
+Самое нужное число
 */
-public class Solution
-{
+public class Solution {
     public static void main(String[] args)
     {
         int x = 1;
