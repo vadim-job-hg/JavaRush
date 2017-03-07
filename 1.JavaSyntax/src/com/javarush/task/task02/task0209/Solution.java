@@ -1,10 +1,9 @@
-package com.javarush.task.task02.lesson03;
+package com.javarush.task.task02.task0209;
 
-/* Три собаки - это сила
-Создать 3 объекта типа Dog (собака) и присвоить им имена "Max", "Bella", "Jack".
+/* 
+Макс, Белла и Джек
 */
-public class Solution
-{
+public class Solution {
     public static void main(String[] args)
     {
         Dog dog1 = new Dog();
