@@ -1,10 +1,9 @@
-package com.javarush.task.task02.lesson03;
+package com.javarush.task.task02.task0208;
 
-/* Коты - это хорошо
-Создать объект типа Cat 2 раза.
+/* 
+Одного кота нам мало
 */
-public class Solution
-{
+public class Solution {
     public static void main(String[] args)
     {
         Cat cat1 = new Cat();
