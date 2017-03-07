@@ -1,12 +1,10 @@
-package com.javarush.test.level01.lesson04.task02;
+package com.javarush.task.task01.task0114;
 
-import java.lang.String;
-
-/* JavaRush. Learn once - use anywhere
-Напиши программу, которая выводит на экран надпись: «JavaRush. Learn once - use anywhere» 10 раз.
+/* 
+JavaRush. Learn once - use anywhere
 */
-public class Solution
-{
+
+public class Solution {
     public static void main(String[] args)
     {
         print5Times("JavaRush. Learn once - use anywhere");
