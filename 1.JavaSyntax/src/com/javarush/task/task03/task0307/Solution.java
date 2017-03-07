@@ -1,4 +1,4 @@
-package com.javarush.task.task03.lesson04;
+package com.javarush.task.task03.task0307;
 
 /* StarCraft
 Создать 10 зергов, 5 протосов и 12 терран.
