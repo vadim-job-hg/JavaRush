@@ -1,11 +1,10 @@
-package com.javarush.test.level01.lesson04.task06;
+package com.javarush.task.task01.task0118;
 
-/* summa = 12
-Закомментируйте часть кода, чтобы на экран вывелось сообщение "summa = 12".
-Программа должна компилироваться.
+/* 
+Закомментируйте лишнее
 */
-public class Solution
-{
+
+public class Solution {
     public static void main(String[] args) {
         int a = 3;
         //int a = 10;
@@ -17,6 +16,5 @@ public class Solution
         //int summa = 4 + a + b;
 
         System.out.println("summa = " + summa);
-
     }
 }
