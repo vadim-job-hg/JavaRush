@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson02.task06;
+package com.javarush.task.task02.lesson02;
 
 /* Сумма и произведение
 В методе main обьявите две целочисельные переменные a и b типа int. Присвойте им любые значения.

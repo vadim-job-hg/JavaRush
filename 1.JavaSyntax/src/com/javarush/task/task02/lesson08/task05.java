@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson08.task05;
+package com.javarush.task.task02.lesson08;
 
 /* Дублирование строки
 Написать функцию, которая выводит переданную строку на экран три раза, каждый раз с новой строки.

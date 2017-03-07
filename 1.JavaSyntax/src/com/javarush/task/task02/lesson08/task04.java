@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson08.task04;
+package com.javarush.task.task02.lesson08;
 
 /* Минимум четырех чисел
 Написать функцию, которая вычисляет минимум из четырёх чисел.

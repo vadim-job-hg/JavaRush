@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson02.task02;
+package com.javarush.task.task02.lesson02;
 
 /* Вычитание чисел
 Реализуй метод public static int subtraction(int a, int b). Метод возвращает результат вычитания из числа a числа b.

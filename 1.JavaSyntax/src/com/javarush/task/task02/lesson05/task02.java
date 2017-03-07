@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson05.task02;
+package com.javarush.task.task02.lesson05;
 
 /* 8 котов
 Создайте 10 переменных типа Cat и 8 объектов типа Cat.

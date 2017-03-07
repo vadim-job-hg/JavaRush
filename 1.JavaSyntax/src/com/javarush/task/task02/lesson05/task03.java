@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson05.task03;
+package com.javarush.task.task02.lesson05;
 
 /* У каждого животного должна быть хозяйка.
 Создайте объект типа Cat(кот), объект типа Dog (собака), объект типа Fish (рыбка) и объект типа Woman.

@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson02.task03;
+package com.javarush.task.task02.lesson02;
 
 /* Man и woman
 В методе main создай объект Man, занеси его ссылку в переменную man.

@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson02.task04;
+package com.javarush.task.task02.lesson02;
 
 /* Прибавка к зарплате
 Реализуй метод public static void salary(int a).

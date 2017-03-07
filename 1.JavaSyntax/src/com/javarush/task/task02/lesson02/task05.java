@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson02.task05;
+package com.javarush.task.task02.lesson02;
 
 /* Вызов методов
 Подумайте, что делает программа.

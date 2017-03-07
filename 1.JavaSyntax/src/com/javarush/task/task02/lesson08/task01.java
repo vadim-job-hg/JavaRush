@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson08.task01;
+package com.javarush.task.task02.lesson08;
 
 import java.lang.System;
 

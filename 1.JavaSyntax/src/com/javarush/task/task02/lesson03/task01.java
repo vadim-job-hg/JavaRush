@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson03.task01;
+package com.javarush.task.task02.lesson03;
 
 /* Коты - это хорошо
 Создать объект типа Cat 2 раза.

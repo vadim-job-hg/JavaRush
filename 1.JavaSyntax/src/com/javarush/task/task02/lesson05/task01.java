@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson05.task01;
+package com.javarush.task.task02.lesson05;
 
 /* 19
 Закоментарь максимальное количество строк, чтобы на экран вывелось число 19

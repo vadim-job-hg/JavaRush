@@ -1,4 +1,4 @@
-package com.javarush.test.level02.lesson03.task02;
+package com.javarush.task.task02.lesson03;
 
 /* Три собаки - это сила
 Создать 3 объекта типа Dog (собака) и присвоить им имена "Max", "Bella", "Jack".
