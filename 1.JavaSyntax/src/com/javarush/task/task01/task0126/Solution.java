@@ -1,10 +1,10 @@
-package com.javarush.test.level01.lesson08.task03;
+package com.javarush.task.task01.task0126;
 
-/* Решаем задачи
-Напиши программу, которая выводит на экран надпись: «Хочешь - решай задачи, не хочешь - решай нехотя» 16 раз.
+/* 
+Не хочешь  - решай нехотя
 */
-public class Solution
-{
+
+public class Solution {
     public static void main(String[] args)
     {
         String t = "Хочешь - решай задачи, не хочешь - решай нехотя";
