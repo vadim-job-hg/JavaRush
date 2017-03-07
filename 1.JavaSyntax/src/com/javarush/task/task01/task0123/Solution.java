@@ -1,10 +1,10 @@
-package com.javarush.test.level01.lesson07.task04;
+package com.javarush.task.task01.task0123;
 
-/* Комментирование кода
-Закомментируйте те переменные, которые нигде не используются. Программа должна компилироваться.
+/* 
+Лишние строки нам не нужны
 */
-public class Solution
-{
+
+public class Solution {
     public static void main(String[] args) {
         int a = 10;
         int b = 15;
@@ -17,6 +17,5 @@ public class Solution
         String s3 = s1 + "a";
         String s4 = s3 + "b";
         System.out.println(c + s4 + s);
-
     }
 }
