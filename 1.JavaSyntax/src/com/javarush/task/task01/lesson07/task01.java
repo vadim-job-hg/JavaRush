@@ -1,4 +1,4 @@
-package com.javarush.test.level00.lesson07.task01;
+package com.javarush.task.task01.lesson07;
 
 /* Это не баг, это фича.
 Напиши программу, которая выводит на экран надпись «Это не баг, это фича.».

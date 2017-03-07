@@ -1,4 +1,4 @@
-package com.javarush.test.level00.lesson07.task03;
+package com.javarush.task.task01.lesson07;
 
 /* 2 plus 3 equals 5
 Закоментируйте несколько строк, чтобы на экран вывелась надпись "2 plus 3 equals 5".

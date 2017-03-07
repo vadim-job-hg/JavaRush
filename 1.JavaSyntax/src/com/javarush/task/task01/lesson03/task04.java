@@ -1,4 +1,4 @@
-package com.javarush.test.level01.lesson03.task04;
+package com.javarush.task.task01.lesson03;
 
 /* Вывод на экран нескольких переменных
 Объявите переменную name типа String, переменные age, height типа int.

@@ -1,4 +1,4 @@
-package com.javarush.test.level01.lesson03.task03;
+package com.javarush.task.task01.lesson03;
 
 /* Объявление нескольких переменных
 Объявите переменные a, b типа int и переменную s типа String.

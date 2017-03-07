@@ -1,4 +1,4 @@
-package com.javarush.test.level01.lesson08.task01;
+package com.javarush.task.task01.lesson08;
 
 import java.lang.String;
 
@@ -19,7 +19,7 @@ public class Solution
         s = s + "just";
         s = s + " ";
         s = s + "business";
-        s = s + ".";
+        s = s + "";
 
         System.out.println(s);
     }

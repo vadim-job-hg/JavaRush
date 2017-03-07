@@ -1,4 +1,4 @@
-package com.javarush.test.level00.lesson07.task02;
+package com.javarush.task.task01.lesson07;
 
 /* Обмен
 Раскоментируйте некоторые строчки, чтобы программа вывела на экран числа 12 и 2 (сначала 12, а затем 2).

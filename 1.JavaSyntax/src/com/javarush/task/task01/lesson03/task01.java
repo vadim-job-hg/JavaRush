@@ -1,4 +1,4 @@
-package com.javarush.test.level01.lesson03.task01;
+package com.javarush.task.task01.lesson03;
 
 /* Объявление двух переменных
 Объявите переменные a, b типа int.

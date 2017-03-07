@@ -1,4 +1,4 @@
-package com.javarush.test.level01.lesson03.task02;
+package com.javarush.task.task01.lesson03;
 
 /* Вывод на экран переменной
 Объявите переменную name типа String.

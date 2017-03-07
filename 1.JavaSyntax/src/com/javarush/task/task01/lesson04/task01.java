@@ -1,4 +1,4 @@
-package com.javarush.test.level01.lesson04.task01;
+package com.javarush.task.task01.lesson04;
 
 /* Объявление трех переменных
 Объявите переменные name1, name2, name3 типа String.

@@ -1,4 +1,4 @@
-package com.javarush.test.level01.lesson05.task01;
+package com.javarush.task.task01.lesson05;
 
 /* Должна компилироваться
 Внесите изменения в программу, чтобы переменная s была равна 5, t была равна 6, а x равна 7.
