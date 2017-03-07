@@ -1,4 +1,4 @@
-package com.javarush.test.level03.lesson01.task01;
+package com.javarush.task.task03.lesson01;
 
 /* Реализация метода
 Реализуйте метод public static void div(int a, int b).

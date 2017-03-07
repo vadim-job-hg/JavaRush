@@ -1,4 +1,4 @@
-package com.javarush.test.level03.lesson03.task01;
+package com.javarush.task.task03.lesson03;
 
 /* Реализация метода
 Добавьте метод public static void printString(String s) который будет выводить переданную строку на экран.

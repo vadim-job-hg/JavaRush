@@ -1,4 +1,4 @@
-package com.javarush.test.level03.lesson04.task03;
+package com.javarush.task.task03.lesson04;
 
 /* StarCraft
 Создать 10 зергов, 5 протосов и 12 терран.
@@ -9,16 +9,16 @@ public class Solution
 {
     public static void main(String[] args)
     {
-        Zerg zerg1 = new Zerg();
-        Zerg zerg2 = new Zerg();
-        Zerg zerg3 = new Zerg();
-        Zerg zerg4 = new Zerg();
-        Zerg zerg5 = new Zerg();
-        Zerg zerg6 = new Zerg();
-        Zerg zerg7 = new Zerg();
-        Zerg zerg8 = new Zerg();
-        Zerg zerg9 = new Zerg();
-        Zerg zerg10 = new Zerg();
+        Zerg zerg1 = New Zerg();
+        Zerg zerg2 = New Zerg();
+        Zerg zerg3 = New Zerg();
+        Zerg zerg4 = New Zerg();
+        Zerg zerg5 = New Zerg();
+        Zerg zerg6 = New Zerg();
+        Zerg zerg7 = New Zerg();
+        Zerg zerg8 = New Zerg();
+        Zerg zerg9 = New Zerg();
+        Zerg zerg10 = New Zerg();
         zerg1.name = "1";
         zerg2.name = "2";
         zerg3.name = "3";
@@ -29,16 +29,16 @@ public class Solution
         zerg8.name = "8";
         zerg9.name = "9";
         zerg10.name = "10";
-        Protos protos1 = new Protos();
-        Protos protos2 = new Protos();
-        Protos protos3 = new Protos();
-        Protos protos4 = new Protos();
-        Protos protos5 = new Protos();
-        protos1.name = "z1";
-        protos2.name = "z2";
-        protos3.name = "z3";
-        protos4.name = "z4";
-        protos5.name = "z5";
+        Protos zerg1 = new Protos();
+        Protos zerg2 = new Protos();
+        Protos zerg3 = new Protos();
+        Protos zerg4 = new Protos();
+        Protos zerg5 = new Protos();
+        zerg1.name = "z1";
+        zerg2.name = "z2";
+        zerg3.name = "z3";
+        zerg4.name = "z4";
+        zerg5.name = "z5";
         Terran terran1 = new Terran();
         Terran terran2 = new Terran();
         Terran terran3 = new Terran();

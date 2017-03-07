@@ -1,4 +1,4 @@
-package com.javarush.test.level03.lesson03.task02;
+package com.javarush.task.task03.lesson03;
 
 /* Конвертер валют
 Реализуйте метод convertEurToUsd, переводящий евро в доллары по заданному курсу.

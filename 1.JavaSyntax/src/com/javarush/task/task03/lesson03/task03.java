@@ -1,4 +1,4 @@
-package com.javarush.test.level03.lesson03.task03;
+package com.javarush.task.task03.lesson03;
 
 /* 10 процентов
 Реализуйте метод addTenPercent, который увеличивает переданное целое число на 10%.
