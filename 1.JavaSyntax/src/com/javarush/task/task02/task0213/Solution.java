@@ -1,11 +1,9 @@
-package com.javarush.task.task02.lesson05;
+package com.javarush.task.task02.task0213;
 
-/* У каждого животного должна быть хозяйка.
-Создайте объект типа Cat(кот), объект типа Dog (собака), объект типа Fish (рыбка) и объект типа Woman.
-Присвойте каждому животному владельца (owner).
+/* 
+Питомцам нужны люди
 */
-public class Solution
-{
+public class Solution {
     public static void main(String[] args)
     {
         Dog dog = new Dog();
