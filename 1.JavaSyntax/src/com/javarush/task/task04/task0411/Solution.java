@@ -13,13 +13,13 @@ public class Solution {
     }
 
     public static void checkSeason(int month) {
-        if(month>=11 || month<=2)
-            System.out.ln("Зима");
+        if(month==12 || month<=2)
+            System.out.println("зима");
         else if(month<=5)
-            System.out.ln("Весна");
-        else if(month<=9)
-            System.out.ln("Лето");
+            System.out.println("весна");
+        else if(month<=8)
+            System.out.println("лето");
         else
-            System.out.ln("Осень");
+            System.out.println("осень");
     }
 }
