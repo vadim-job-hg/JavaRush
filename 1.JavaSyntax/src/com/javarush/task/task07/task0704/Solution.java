@@ -10,7 +10,6 @@ import java.io.InputStreamReader;
 public class Solution {
     public static void main(String[] args) throws Exception {
         int[] numbers = new int[10];
-        String[] str = new String[10];
         BufferedReader bis = new BufferedReader(new InputStreamReader(System.in));
         for (int i = 1; i <= 10; i++)
         {
