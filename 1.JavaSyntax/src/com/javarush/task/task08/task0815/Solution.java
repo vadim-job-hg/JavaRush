@@ -1,9 +1,7 @@
 package com.javarush.task.task08.task0815;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 
 /* 
 Перепись населения
@@ -30,7 +28,6 @@ public class Solution {
     }
 
     public static int getCountTheSameFirstName(HashMap<String, String> map, String name) {
-        //напишите тут ваш код
         int count =0;
         for (String s : map.values())
             if (s.equals(name))
@@ -39,7 +36,6 @@ public class Solution {
     }
 
     public static int getCountTheSameLastName(HashMap<String, String> map, String lastName) {
-        //напишите тут ваш код
         int count =0;
         for (String s : map.keySet())
             if (s.equals(lastName))
@@ -49,12 +45,5 @@ public class Solution {
 
     public static void main(String[] args) {
         HashMap <String, String> hm = createMap ();
-//        System.out.println(getCountTheSameFirstName (hm, "Петр" ));
-//        System.out.println(getCountTheSameLastName (hm, "Толстой" ));
-
     }
 }
-
-
-//for (Map.Entry entry : map.entrySet())
-//if (entry.getValue().equals(name))
