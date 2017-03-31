@@ -8,30 +8,10 @@ import java.util.HashSet;
 
 public class Solution {
     public static HashSet<String> createSet() {
-        //напишите тут ваш код
-        HashSet <String> hs = new HashSet<>();
-        hs.add("Лес");
-        hs.add("Ложка");
-        hs.add("Лань");
-        hs.add("Лен");
-        hs.add("Лук");
-        hs.add("Лупа");
-        hs.add("Лемур");
-        hs.add("Лут");
-        hs.add("Лоб");
-        hs.add("Люк");
-        hs.add("Лещь");
-        hs.add("Лак");
-        hs.add("Лик");
-        hs.add("Лицо");
-        hs.add("Липа");
-        hs.add("Лось");
-        hs.add("Лампа");
-        hs.add("Листва");
-        hs.add("Лакомка");
-        hs.add("Лесовоз");
-
-        return hs;
+        HashSet<String> st =  new HashSet<String>();
+        for (int i = 0; i<20; i++)
+            st.add("Л"+i);
+        return st;
     }
 
     public static void main(String[] args) {
