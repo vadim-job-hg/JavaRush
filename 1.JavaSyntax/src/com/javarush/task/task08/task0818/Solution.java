@@ -44,11 +44,11 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-//        HashMap<String, Integer> hm =  createMap();
-//        removeItemFromMap (hm);
-//
-//        for (Map.Entry <String, Integer> pair : hm.entrySet())
-//            System.out.println(pair.getKey()+" "+pair.getValue());
+        HashMap<String, Integer> hm =  createMap();
+       removeItemFromMap (hm);
+
+       for (Map.Entry <String, Integer> pair : hm.entrySet())
+            System.out.println(pair.getKey()+" "+pair.getValue());
 
     }
 }
